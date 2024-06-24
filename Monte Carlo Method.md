@@ -11,5 +11,5 @@ Suppose we toss darts randomly at a square with sides of 2 units in length. Insi
 </br> numberInCircle++:
 </br> }
 </br> PI_Estimation = 4.0*numberInCircle/ (double)number_of_tosses
-### Written an MPI program to solve the problem with different number of processes (2- 8 processes), number_of_tosses = 100,000.
+### Written an MPI program to solve the problem with number of processes (2- 8 processes) -you can cahnge number of processes-, number_of_tosses = 100,000.
 in attached .cpp file
